@@ -1,0 +1,3 @@
+# KaggleComp
+
+Bu repo katıldığım yarışmalar için uyguladığım ve denediğim çözümleri depolamam içindir...
