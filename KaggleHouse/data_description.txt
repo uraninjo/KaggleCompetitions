@@ -1,4 +1,6 @@
 MSSubClass: Identifies the type of dwelling involved in the sale.	
+Bu get_dummies le yapılabilir
+
 
         20	1-STORY 1946 & NEWER ALL STYLES
         30	1-STORY 1945 & OLDER
@@ -18,6 +20,7 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
        190	2 FAMILY CONVERSION - ALL STYLES AND AGES
 
 MSZoning: Identifies the general zoning classification of the sale.
+Bu get_dummies le yapılabilir
 		
        A	Agriculture
        C	Commercial
@@ -29,11 +32,12 @@ MSZoning: Identifies the general zoning classification of the sale.
        RM	Residential Medium Density
 	
 LotFrontage: Linear feet of street connected to property
+Eksik veriler var.mean alınacak
 
 LotArea: Lot size in square feet
 
 Street: Type of road access to property
-
+Bu get_dummies le yapılabilir
        Grvl	Gravel	
        Pave	Paved
        	
