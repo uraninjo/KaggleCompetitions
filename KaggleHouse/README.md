@@ -1,0 +1,3 @@
+# House Prices - Advanced Regression Techniques
+
+Bu yarışma ile ilgili yayınladığım Notebook'ların linki alttadır...
